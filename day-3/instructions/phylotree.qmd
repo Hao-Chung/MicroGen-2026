@@ -13,6 +13,8 @@ In contrast to mapping, the theory of phylogenetics is more nuanced and complex,
 
 # Data directory
 
+Input data are available at the directory `day-3/phylogenetics/input`. These include the pseudogenome sequences in `.fasta` format for the genomes which previously completed the mapping step. A short metadata in `.csv` format is also included for visualisation purpose.
+
 # Phylogenetic tree construction
 
 The first step in building a phylogenetic tree is to generate a multiple sequence alignment (MSA) \[*you can refer to this as an extension of the gene alignment problem*\]. Since we have already generated pseudogenome sequences for each of the samples in the morning, now we can use these to build an MSA file. Note that since the pseudogenome is already at the same length and in synteny with the reference, we can directly concatenate the pseudogenome fasta files without performing sequence alignment. This is a unique advantage of using pseudogenome sequences for phylogenetic analysis, as it allows us to bypass the computationally intensive step of sequence alignment and directly generate an MSA file that can be used for tree construction.
