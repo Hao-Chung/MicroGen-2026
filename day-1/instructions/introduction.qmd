@@ -5,8 +5,7 @@ date: "2026-05-12"
 ---
 
 # What is Whole-Genome Sequencing?
-Whole-genome sequencing (WGS) is a laboratory technique used to determine the complete DNA sequence of an organism's genome. Unlike traditional methods that target specific genes, WGS sequences every part of the genome, providing a comprehensive view of the organism's genetic makeup.
-
+Whole-genome sequencing (WGS) is a laboratory technique used to determine the complete DNA sequence of an organism's genome. Unlike traditional methods that target specific genes, WGS sequences every part of the genome, providing a comprehensive view of the organism's genetic makeup. WGS holds the highest discriminatory power in differentiating closely related microbial strains, and provide data to reflect evolutionary relationship and processes.
 
 # Why is WGS important in microbiology?
 
@@ -18,6 +17,5 @@ WGS has revolutionized microbiology by enabling us to:
 - **Characterize new pathogens**: WGS allows us to identify and characterize novel pathogens, which is crucial for developing new diagnostic tools and treatments.
 
 # Case Studies
-
-## *Klebsiella pneumoniae* Outbreak in an Italian Hospital
+We will present several studies where WGS is applied in clinical, public health and research settings. Particularly, we will utilise WGS data from a previously published study (Capitani et al., 2026, Eurosurveillance) to use as a teaching example on how WGS data are analysed and interpreted. This study is a genomic-based outbreak investigation of Klebsiella pneumoniae ST147 in a hospital in Rome, Italy. 
 
