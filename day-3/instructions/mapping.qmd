@@ -18,6 +18,9 @@ Input data are available in `day-3/mapping/input` directory. The reference genom
 The reference genome for this exercise is taken from the previous `day-2` hybrid assembly step. Note that we only use the chromosomal sequence of `AMB201Kp`
 
 Also first activate the main conda environment we will be working with
+``` bash
+conda activate microgen2026_mapping
+```
 
 # Mapping command step by step
 
